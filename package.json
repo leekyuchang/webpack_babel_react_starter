@@ -1,7 +1,7 @@
 {
-  "name": "bradcrispin_io",
+  "name": "webpack_babel_react_starter",
   "version": "0.0.1",
-  "description": "My personal website.",
+  "description": "Starter kit for node + react builds.",
   "main": "server/app.js",
   "scripts": {
     "build": "webpack",
